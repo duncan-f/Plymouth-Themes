@@ -1,0 +1,8 @@
+[Plymouth Theme]
+Name=Jam
+Description=Windows blue screen of death inspired plymouth splash theme made by Vivek Rajan
+ModuleName=script
+
+[script]
+ImageDir=/usr/share/plymouth/themes/Jam
+ScriptFile=/usr/share/plymouth/themes/Jam/Jam.script
