@@ -7,7 +7,7 @@
 # Installation
 - Install plymouth on your distro by following guide written on your distro's wiki page or search on the internet. Do follow each and every steps properly.
   
-  [Arch](https://wiki.archlinux.org/title/Plymouth)  [Debian](https://wiki.debian.org/plymouth)  [Ubuntu](https://wiki.ubuntu.com/Plymouth) [Linux-Mint](https://community.linuxmint.com/tutorial/view/646)  [Nix](https://wiki.nixos.org/w/index.php?title=Plymouth&mobileaction=toggle_view_desktop)  
+  [Arch](https://wiki.archlinux.org/title/Plymouth)  [Debian](https://wiki.debian.org/plymouth)  [Ubuntu](https://wiki.ubuntu.com/Plymouth) [Linux-Mint](https://community.linuxmint.com/tutorial/view/646)  [Nix](https://wiki.nixos.org/w/index.php?title=Plymouth&mobileaction=toggle_view_desktop)  [Gentoo](https://wiki.gentoo.org/wiki/Plymouth)  [Fedora](https://discussion.fedoraproject.org/t/enable-plymouth-startup/70079)  [Manjaro](https://wiki.manjaro.org/index.php/Plymouth)   
 
 - Clone this repository 
 ```
