@@ -4,7 +4,8 @@
 # Jam (Just A Moment)
 ![jam](https://github.com/user-attachments/assets/21d0d9a7-770b-44e6-83ca-0ae6a88477d0)
 
-# Installation 
+# Installation
+- Install plymouth on your distro by following official guide written on your distro's wiki page. Do follow each and every steps properly.
 - Clone this repository 
 
 ```
