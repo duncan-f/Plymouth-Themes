@@ -34,4 +34,4 @@ sudo plymouth-set-default-theme Jam -R
 
 # Credits  
 - [K Harishnkr](https://github.com/harishnkr) for Blue Screen of Life Idea
-- [Mauro Meloni](https://gitlab.com/maurom) for loading circular loading animation
+- [Mauro Meloni](https://gitlab.com/maurom) for circular loading animation
