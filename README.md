@@ -32,7 +32,7 @@ sudo plymouth-set-default-theme Bsol -R
 sudo plymouth-set-default-theme Jam -R 
 ```
 
-# Also Available at:-
+# Also Available At:-
 - [Pling](https://www.pling.com/p/2216301/)
 
 - [Gnome-Look](https://www.gnome-look.org/p/2216301)
