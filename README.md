@@ -6,9 +6,8 @@
 
 # Installation
 - Install plymouth on your distro by following official guide written on your distro's wiki page. Do follow each and every steps properly.
- ```
 [Arch](https://wiki.archlinux.org/title/Plymouth)
-```
+
 - Clone this repository 
 ```
 git clone https://github.com/MrVivekRajan/Plymouth-Themes.git
