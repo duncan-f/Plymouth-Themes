@@ -34,7 +34,7 @@ sudo plymouth-set-default-theme Jam -R
 
 # Also Available at:-
 [Pling](https://www.pling.com/p/2216301/)
-[Gnome-Look]()
+[Gnome-Look](https://www.gnome-look.org/p/2216301)
 
 # Credits  
 - [K Harishnkr](https://github.com/harishnkr) for Blue Screen of Life Idea
