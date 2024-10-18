@@ -13,3 +13,8 @@
 ```
 git clone https://github.com/MrVivekRajan/Plymouth-Themes.git
 ```
+
+- Once you installed plymouth make sure that you have a themes folder inside /usr/share/plymouth/ if not then create one
+```
+sudo mkdir /usr/share/plymouth/themes/
+```
