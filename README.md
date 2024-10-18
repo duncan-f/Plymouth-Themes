@@ -18,3 +18,5 @@ sudo mkdir /usr/share/plymouth/themes/
 ```
 git clone https://github.com/MrVivekRajan/Plymouth-Themes.git
 ```
+
+- After cloing it just copy and paste your desired Plymouth Theme to '/usr/share/plymouth/themes/'
