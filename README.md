@@ -21,7 +21,7 @@ git clone https://github.com/MrVivekRajan/Plymouth-Themes.git
 
 - After cloing it just copy and paste your desired Plymouth Theme to `/usr/share/plymouth/themes/`
 
-- Now just set it as default Plymouth theme and make sure to rebuild `initrd` for that just use command given below:-
+- Now just set it as default Plymouth theme and make sure to rebuild `initrd` for that just use command given below :-
 
 - For Bsol-Theme 
 ```
@@ -31,3 +31,7 @@ sudo plymouth-set-default-theme Bsol -R
 ```
 sudo plymouth-set-default-theme Jam -R 
 ```
+
+# Credits  
+- [K Harishnkr](https://github.com/harishnkr) for Blue Screen of Life Idea
+- [Mauro Meloni](https://gitlab.com/maurom) for loading circular loading animation
