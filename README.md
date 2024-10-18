@@ -38,8 +38,8 @@ sudo plymouth-set-default-theme Jam -R
 - [Gnome-Look](https://www.gnome-look.org/p/2216301)
 
 # Credits  
-- [K Harishnkr](https://github.com/harishnkr) for Blue Screen of Life Idea
-- [Mauro Meloni](https://gitlab.com/maurom) for circular loading animation
+- [K Harishnkr](https://github.com/harishnkr) - For Blue Screen of Life Idea
+- [Mauro Meloni](https://gitlab.com/maurom) - For circular loading animation
 
 # Thanks for Visiting !! ❤️❤️
 I Hope You Like my project, if yes then don't forget to give it a star as it means a lot.
