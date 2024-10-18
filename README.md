@@ -21,7 +21,7 @@ git clone https://github.com/MrVivekRajan/Plymouth-Themes.git
 
 - After cloing it just copy and paste your desired Plymouth Theme to `/usr/share/plymouth/themes/`
 
-- Now just set it as default Plymouth theme and make sure to rebuild `initrd` for that just use command given below :-
+- Now just set it as default Plymouth theme and make sure to rebuild `initrd` for that just use commands given below:-
 
 - For Bsol-Theme 
 ```
