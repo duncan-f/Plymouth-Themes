@@ -1,4 +1,4 @@
-# Bsol (Blue Screen Of Life)
+ # Bsol (Blue Screen Of Life)
 ![plymouth ](https://github.com/user-attachments/assets/ea6b1579-eda4-435b-bb8f-47868fdfc21e)
 
 # Jam (Just A Moment)
@@ -31,6 +31,10 @@ sudo plymouth-set-default-theme Bsol -R
 ```
 sudo plymouth-set-default-theme Jam -R 
 ```
+
+# Also Available at:-
+[Pling](https://www.pling.com/p/2216301/)
+[Gnome-Look]()
 
 # Credits  
 - [K Harishnkr](https://github.com/harishnkr) for Blue Screen of Life Idea
