@@ -23,5 +23,6 @@ git clone https://github.com/MrVivekRajan/Plymouth-Themes.git
 
 - Now just set it as default Plymouth theme and make sure to rebuild `initrd` for that just use command given below
 ```
-plymouth-set-default-theme (Replace this with THEME Name) -R 
+For Bsol-Theme
+sudo plymouth-set-default-theme Bsol -R 
 ```
