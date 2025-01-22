@@ -1,6 +1,5 @@
 ### Previews
 
-<!----------------------------- Pack 1 ----------------------------->
 <details><summary>Pack 1</summary>
 
 # Bsol (Blue Screen Of Life)
