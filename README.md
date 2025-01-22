@@ -59,6 +59,7 @@
   
   [Arch](https://wiki.archlinux.org/title/Plymouth)  [Debian](https://wiki.debian.org/plymouth)  [Ubuntu](https://wiki.ubuntu.com/Plymouth) [Linux-Mint](https://community.linuxmint.com/tutorial/view/646)  [Nix-OS](https://wiki.nixos.org/w/index.php?title=Plymouth&mobileaction=toggle_view_desktop)  [Gentoo](https://wiki.gentoo.org/wiki/Plymouth)  [EndeavourOS](https://forum.endeavouros.com/t/guide-how-to-install-and-use-plymouth/51363)  [Fedora](https://discussion.fedoraproject.org/t/enable-plymouth-startup/70079)  [MX-Linux](https://mxlinux.org/wiki/system/add-plymouth-to-mx-linux/)  [Manjaro](https://wiki.manjaro.org/index.php/Plymouth)  [oepnSUSE](https://en.opensuse.org/openSUSE:Plymouth)   
 
+```
 - Once you installed plymouth make sure that you have a themes folder inside /usr/share/plymouth/ if not then create one
 ```
 sudo mkdir /usr/share/plymouth/themes/
@@ -74,7 +75,7 @@ git clone https://github.com/MrVivekRajan/Plymouth-Themes.git
 - Now just set your desired theme as default Plymouth theme and make sure to rebuild `initrd` for that just use command given below:-
  
 ```
-sudo plymouth-set-default-theme `(replace this with your desired theme)` -R 
+sudo plymouth-set-default-theme (replace this with your desired theme) -R 
 ```
 
 # Also Available At:-
