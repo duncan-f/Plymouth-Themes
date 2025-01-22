@@ -2,11 +2,11 @@
 
 <details><summary>Anonymous</summary>
   
-# Anonymous
-![plymouth ](https://github.com/user-attachments/assets/ea6b1579-eda4-435b-bb8f-47868fdfc21e)
+![Image](https://github.com/user-attachments/assets/274056c0-92f1-40b2-b850-eee5d78679bd)
 </details>
 
 <details><summary>Bsol(Blue Screen Of Life)</summary>
+  
 ![plymouth ](https://github.com/user-attachments/assets/ea6b1579-eda4-435b-bb8f-47868fdfc21e)
 </details>
 
