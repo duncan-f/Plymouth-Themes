@@ -19,7 +19,7 @@
 <details><summary>Style-2</summary>
 
 # Goku   
-[![plymouth ](https://github.com/user-attachments/assets/ea6b1579-eda4-435b-bb8f-47868fdfc21e)](https://github.com/MrVivekRajan/Plymouth-Themes/blob/main/Preview/goku.gif?raw=true)
+
 # Starlord
 ![Image](https://github.com/user-attachments/assets/4c56f308-cba5-4ee7-ae9c-5f0d0724547e)
 # Sasuke 
