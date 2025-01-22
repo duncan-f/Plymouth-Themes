@@ -5,11 +5,15 @@
 # Anonymous  
 ![Image](https://github.com/user-attachments/assets/274056c0-92f1-40b2-b850-eee5d78679bd)
 
-# Bsol   
-![plymouth ](https://github.com/user-attachments/assets/ea6b1579-eda4-435b-bb8f-47868fdfc21e)
+# DC-Marvel 
+![Image](https://github.com/user-attachments/assets/02ac0d10-5818-4d80-9a85-126161ed6a22)
+
 </details>
 
-<details><summary>Jam</summary>
+<details><summary>Style-2</summary>
+
+# Bsol   
+![plymouth ](https://github.com/user-attachments/assets/ea6b1579-eda4-435b-bb8f-47868fdfc21e)
 
 # Jam (Just A Moment)
 ![jam](https://github.com/user-attachments/assets/21d0d9a7-770b-44e6-83ca-0ae6a88477d0)
