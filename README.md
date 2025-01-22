@@ -6,9 +6,7 @@
 ![plymouth ](https://github.com/user-attachments/assets/ea6b1579-eda4-435b-bb8f-47868fdfc21e)
 </details>
 
-<details><summary>Bsol</summary>
-  
-# Bsol (Blue Screen Of Life)
+<details><summary>Bsol(Blue Screen Of Life)</summary>
 ![plymouth ](https://github.com/user-attachments/assets/ea6b1579-eda4-435b-bb8f-47868fdfc21e)
 </details>
 
