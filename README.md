@@ -13,10 +13,24 @@
 
 # DC-Marvel 
 ![Image](https://github.com/user-attachments/assets/02ac0d10-5818-4d80-9a85-126161ed6a22)
-
 </details>
 
 <details><summary>Style-2</summary>
+
+# Goku   
+![plymouth ](https://github.com/user-attachments/assets/ea6b1579-eda4-435b-bb8f-47868fdfc21e)
+
+# Starlord
+![Image](https://github.com/user-attachments/assets/4c56f308-cba5-4ee7-ae9c-5f0d0724547e)
+
+# Sasuke 
+![Image](https://github.com/user-attachments/assets/5834b229-1dd2-481f-bf3e-3eaaaaab6b35)
+
+# Steam
+![Image](https://github.com/user-attachments/assets/c11e575b-e93e-4554-8c46-15b99f7c935f)
+</details>
+
+<details><summary>Style-3</summary>
 
 # Bsol   
 ![plymouth ](https://github.com/user-attachments/assets/ea6b1579-eda4-435b-bb8f-47868fdfc21e)
