@@ -4,13 +4,10 @@
 
 # Anonymous  
 ![Image](https://github.com/user-attachments/assets/274056c0-92f1-40b2-b850-eee5d78679bd)
-
 # Eye
 ![Image](https://github.com/user-attachments/assets/4cb532f3-ef57-456b-879e-9089a9d5e3a1)
-
 # Error
 ![Image](https://github.com/user-attachments/assets/8a521ae0-27ee-4913-ac7c-4666206560b9)
-
 # DC-Marvel 
 ![Image](https://github.com/user-attachments/assets/02ac0d10-5818-4d80-9a85-126161ed6a22)
 </details>
@@ -19,18 +16,15 @@
 
 # Goku   
 ![plymouth ](https://github.com/user-attachments/assets/ea6b1579-eda4-435b-bb8f-47868fdfc21e)
-
 # Starlord
 ![Image](https://github.com/user-attachments/assets/4c56f308-cba5-4ee7-ae9c-5f0d0724547e)
-
 # Sasuke 
 ![Image](https://github.com/user-attachments/assets/5834b229-1dd2-481f-bf3e-3eaaaaab6b35)
-
 # Steam
 ![Image](https://github.com/user-attachments/assets/c11e575b-e93e-4554-8c46-15b99f7c935f)
 </details>
 
-<details><summary>Style-4</summary>
+<details><summary>Style-3</summary>
   
 # Google
 ![Image](https://github.com/user-attachments/assets/ce1c1f7f-252a-44be-a4d2-f650d2cfb643)
@@ -46,7 +40,6 @@
 
 # Bsol   
 ![plymouth ](https://github.com/user-attachments/assets/ea6b1579-eda4-435b-bb8f-47868fdfc21e)
-
 # Jam (Just A Moment)
 ![jam](https://github.com/user-attachments/assets/21d0d9a7-770b-44e6-83ca-0ae6a88477d0)
 </details>
