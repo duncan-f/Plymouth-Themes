@@ -61,7 +61,8 @@
 
 - Once you installed plymouth on your distro simply follow the steps given below :-
 ```bash
-# Make sure that you have a themes folder inside /usr/share/plymouth/ if not then create one by below command
+# Make sure that you have a themes folder inside /usr/share/plymouth/ if not then create one
+by below command
 sudo mkdir /usr/share/plymouth/themes/
 
 # Clone this repository if you want all the themes else if you want any individual theme download it from release section 
