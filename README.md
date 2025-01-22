@@ -46,10 +46,10 @@
 
 # Windows
 ![Image](https://github.com/user-attachments/assets/45e68655-e745-4f23-998f-a2f7f9fa862e)
-# Bsol   
-![plymouth ](https://github.com/user-attachments/assets/ea6b1579-eda4-435b-bb8f-47868fdfc21e)
 # WindowsGr (Getting Ready)
 ![Image](https://github.com/user-attachments/assets/e4f097d4-a2ac-46d9-858d-8b82d90f0ee8)
+# Bsol   
+![plymouth ](https://github.com/user-attachments/assets/ea6b1579-eda4-435b-bb8f-47868fdfc21e)
 # Jam (Just A Moment)
 ![jam](https://github.com/user-attachments/assets/21d0d9a7-770b-44e6-83ca-0ae6a88477d0)
 </details>
