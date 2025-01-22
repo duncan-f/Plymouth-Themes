@@ -62,19 +62,15 @@
 - Once you installed plymouth on your distro simply follow the steps given below :-
 ```bash
 # Make sure that you have a themes folder inside /usr/share/plymouth/ if not then create one by below command
-
 sudo mkdir /usr/share/plymouth/themes/
 
 # Clone this repository if you want all the themes else if you want any individual theme download it from release section 
-
 git clone https://github.com/MrVivekRajan/Plymouth-Themes.git
 
 # After cloning or downloading your desired theme simply copy and paste your desired Theme to
-
-`/usr/share/plymouth/themes/`
+/usr/share/plymouth/themes/
 
 # Now just set your desired theme as default Plymouth theme and make sure to rebuild `initrd` for that just use command given below:-
- 
 sudo plymouth-set-default-theme (replace this with your desired theme) -R 
 ```
 
