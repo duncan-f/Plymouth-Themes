@@ -30,7 +30,19 @@
 ![Image](https://github.com/user-attachments/assets/c11e575b-e93e-4554-8c46-15b99f7c935f)
 </details>
 
-<details><summary>Style-3</summary>
+<details><summary>Style-4</summary>
+  
+# Google
+![Image](https://github.com/user-attachments/assets/ce1c1f7f-252a-44be-a4d2-f650d2cfb643)
+# Ios
+![Image](https://github.com/user-attachments/assets/ec910985-4139-48bf-bf75-e4a3ceccde0e)
+# Google2
+![Image](https://github.com/user-attachments/assets/cd6bcf6e-eeef-4853-861f-0f15a2e9eb8a)
+# HyperOs
+![Image](https://github.com/user-attachments/assets/1b38fb5c-7dd0-48d0-b7b6-7635aea0aaf4)
+</details>
+
+<details><summary>Style-4</summary>
 
 # Bsol   
 ![plymouth ](https://github.com/user-attachments/assets/ea6b1579-eda4-435b-bb8f-47868fdfc21e)
