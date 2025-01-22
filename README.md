@@ -1,10 +1,8 @@
 # Previews
 
 <details><summary>Bsol</summary>
-  
 # Bsol (Blue Screen Of Life)
 ![plymouth ](https://github.com/user-attachments/assets/ea6b1579-eda4-435b-bb8f-47868fdfc21e)
-
 </details>
 
 <details><summary>Bsol</summary>
