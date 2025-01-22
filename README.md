@@ -22,6 +22,8 @@
 ![Image](https://github.com/user-attachments/assets/5834b229-1dd2-481f-bf3e-3eaaaaab6b35)
 # Steam
 ![Image](https://github.com/user-attachments/assets/c11e575b-e93e-4554-8c46-15b99f7c935f)
+# Rockstar
+![Image](https://github.com/user-attachments/assets/f339cc24-4a46-4832-bb4a-f1bb8ea176e8)
 </details>
 
 <details><summary>Style-3</summary>
@@ -42,7 +44,7 @@
 ![Image](https://github.com/user-attachments/assets/45e68655-e745-4f23-998f-a2f7f9fa862e)
 # Bsol   
 ![plymouth ](https://github.com/user-attachments/assets/ea6b1579-eda4-435b-bb8f-47868fdfc21e)
-# WindowsGr
+# WindowsGr (Getting Ready)
 ![Image](https://github.com/user-attachments/assets/e4f097d4-a2ac-46d9-858d-8b82d90f0ee8)
 # Jam (Just A Moment)
 ![jam](https://github.com/user-attachments/assets/21d0d9a7-770b-44e6-83ca-0ae6a88477d0)
