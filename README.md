@@ -64,22 +64,17 @@
 sudo mkdir /usr/share/plymouth/themes/
 ```
 
-- Clone this repository if you want all the themes else if you want your desired theme download it from release section 
+- Clone this repository if you want all the themes else if you want amy individual theme download it from release section 
 ```
 git clone https://github.com/MrVivekRajan/Plymouth-Themes.git
 ```
 
-- After cloing or downloading your desired theme just copy and paste your desired Plymouth Theme to `/usr/share/plymouth/themes/`
+- After cloning or downloading your desired theme simply copy and paste your desired Theme to `/usr/share/plymouth/themes/`
 
-- Now just set it as default Plymouth theme and make sure to rebuild `initrd` for that just use commands given below:-
-
-- For Bsol-Theme 
+- Now just set your desired theme as default Plymouth theme and make sure to rebuild `initrd` for that just use command given below:-
+ 
 ```
-sudo plymouth-set-default-theme Bsol -R 
-```
-- For Jam-Theme 
-```
-sudo plymouth-set-default-theme Jam -R 
+sudo plymouth-set-default-theme (replace this with your desired theme) -R 
 ```
 
 # Also Available At:-
