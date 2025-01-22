@@ -64,12 +64,12 @@
 sudo mkdir /usr/share/plymouth/themes/
 ```
 
-- Clone this repository 
+- Clone this repository if you want all the themes else if you want your desired theme download it from release section 
 ```
 git clone https://github.com/MrVivekRajan/Plymouth-Themes.git
 ```
 
-- After cloing it just copy and paste your desired Plymouth Theme to `/usr/share/plymouth/themes/`
+- After cloing or downloading your desired theme just copy and paste your desired Plymouth Theme to `/usr/share/plymouth/themes/`
 
 - Now just set it as default Plymouth theme and make sure to rebuild `initrd` for that just use commands given below:-
 
