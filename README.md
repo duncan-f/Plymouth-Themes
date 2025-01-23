@@ -12,12 +12,8 @@
     <a href="https://github.com/MrVivekRajan/Plymouth-Themes/forks"><img src="https://img.shields.io/github/forks/MrVivekRajan/Plymouth-Themes?colorA=1d2021&colorB=458588&style=for-the-badge"></a>
 </p>
 
-# 📓 Contents
-- [About This Project](#star2-about-the-project)
-- [Preview](#Style-1)
-
 ## 🌠: About This Project
-A warm welcome to all the people reading out this 🤗. Here at this repo you will find some cool, stylish and minimal boootanimations for Plymouth.
+A warm welcome to all the people reading out this 🤗. Here at this repo you will find some cool, stylish, eye catchy boootanimations for [Plymouth.](https://www.freedesktop.org/wiki/Software/Plymouth/)
  
 # Previews
 
