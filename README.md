@@ -3,7 +3,7 @@
 ![Image](https://github.com/user-attachments/assets/2e555f32-cadf-41cb-bb47-791da9610236)
 
 <p align="center">
-    <a href="https://github.com/MrVivekRajan/Plymouth-Themes/stargazers"><img src="https://img.shields.io/github/stars/MrVivekRajan/Plymouth-Themes?colorA=1d2021&colorB=458588&style=for-the-badge"></a>
+    <a href="https://github.com/MrVivekRajan/Plymouth-Themes/stargazers"><img src="https://img.shields.io/github/stars/MrVivekRajan/Plymouth-Themes?colorA=1d2021&colorB=eebd35&style=for-the-badge"></a>
      <a href="https://github.com/MrVivekRajan/Plymouth-Themes/contributors"><img src="https://img.shields.io/github/contributors/MrVivekRajan/Plymouth-Themes?colorA=1d2021&colorB=8651BB&style=for-the-badge"></a>
      <a href="https://github.com/MrVivekRajan/Plymouth-Themes/blob/main/LICENSE">
         <img src="https://img.shields.io/static/v1.svg?style=for-the-badge&label=License&message=GNU&colorA=1d2021&colorB=b16286&logo=unlicense&logoColor=b16286&"/></a>   
@@ -11,7 +11,7 @@
 
 <p align="center">
     <a href="https://github.com/MrVivekRajan/Plymouth-Themes/issues"><img src="https://img.shields.io/github/issues/MrVivekRajan/Plymouth-Themes?colorA=1d2021&colorB=eebd35&style=for-the-badge"></a>
-    <a href="https://github.com/MrVivekRajan/Plymouth-Themes/forks"><img src="https://img.shields.io/github/forks/MrVivekRajan/Plymouth-Themes?colorA=1d2021&colorB=eebd35&style=for-the-badge"></a>
+    <a href="https://github.com/MrVivekRajan/Plymouth-Themes/forks"><img src="https://img.shields.io/github/forks/MrVivekRajan/Plymouth-Themes?colorA=1d2021&colorB=458588&style=for-the-badge"></a>
 </p>
 
 # Previews
