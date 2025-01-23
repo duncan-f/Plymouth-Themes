@@ -90,8 +90,9 @@ git clone https://github.com/MrVivekRajan/Plymouth-Themes.git
 
 - Now just set your desired theme as default Plymouth theme and make sure to rebuild `initrd` for that just use command given below ▼
 ```bash  
-sudo plymouth-set-default-theme (replace this with your desired theme) -R 
+sudo plymouth-set-default-theme (theme-name) -R 
 ```
+- Dont forget to replace `(theme-name)` with your desired theme.
 
 # Also Available At:-
 - [Pling](https://www.pling.com/p/2216301/)
