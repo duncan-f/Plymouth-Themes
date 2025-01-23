@@ -1,4 +1,4 @@
-![Image](https://github.com/user-attachments/assets/2e555f32-cadf-41cb-bb47-791da9610236)
+![Image](https://github.com/user-attachments/assets/32fcb7ed-7dda-4190-a17a-2fd16fe3c8c1)
 
 <p align="center">
     <a href="https://github.com/MrVivekRajan/Plymouth-Themes/stargazers"><img src="https://img.shields.io/github/stars/MrVivekRajan/Plymouth-Themes?colorA=1d2021&colorB=b16286&style=for-the-badge"></a>
