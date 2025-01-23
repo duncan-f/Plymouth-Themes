@@ -9,6 +9,10 @@
         <img src="https://img.shields.io/static/v1.svg?style=for-the-badge&label=License&message=GNU&colorA=32302f&colorB=b16286&logo=unlicense&logoColor=b16286&"/></a>   
 </p>
 
+<p align="center">
+    <a href="https://github.com/MrVivekRajan/Plymouth-Themes/issues"><img src="https://img.shields.io/github/issues/MrVivekRajan/Plymouth-Themes?colorA=32302f&colorB=eebd35&style=for-the-badge"></a>
+</p>
+
 # Previews
 
 <details><summary>Style-1</summary>
