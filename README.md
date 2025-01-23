@@ -68,7 +68,7 @@ A warm welcome to all the people reading out this 🤗. Here at this repo you wi
 </details>
 
 # Installation
-- Install plymouth on your distro by following guide written on your distro's wiki page or search on the internet. Do follow each and every steps properly.
+- Install plymouth on your distro by following guide written on your distro's wiki page or search on the internet. Do follow each and every steps properly ▼
   
   [Arch](https://wiki.archlinux.org/title/Plymouth)  [Debian](https://wiki.debian.org/plymouth)  [Ubuntu](https://wiki.ubuntu.com/Plymouth) [Linux-Mint](https://community.linuxmint.com/tutorial/view/646)  [Nix-OS](https://wiki.nixos.org/w/index.php?title=Plymouth&mobileaction=toggle_view_desktop)  [Gentoo](https://wiki.gentoo.org/wiki/Plymouth)  [EndeavourOS](https://forum.endeavouros.com/t/guide-how-to-install-and-use-plymouth/51363)  [Fedora](https://discussion.fedoraproject.org/t/enable-plymouth-startup/70079)  [MX-Linux](https://mxlinux.org/wiki/system/add-plymouth-to-mx-linux/)  [Manjaro](https://wiki.manjaro.org/index.php/Plymouth)  [oepnSUSE](https://en.opensuse.org/openSUSE:Plymouth)   
 
@@ -78,7 +78,7 @@ by ▼
 sudo mkdir /usr/share/plymouth/themes/
 ```
 
-- Clone this repository if you want all the themes else if you want any individual theme download it from release section
+- Clone this repository if you want all the themes at once else if you want any individual theme then download it from release section
 ```bash 
 git clone https://github.com/MrVivekRajan/Plymouth-Themes.git
 ```
