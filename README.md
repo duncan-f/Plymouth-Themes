@@ -12,6 +12,9 @@
     <a href="https://github.com/MrVivekRajan/Plymouth-Themes/forks"><img src="https://img.shields.io/github/forks/MrVivekRajan/Plymouth-Themes?colorA=1d2021&colorB=458588&style=for-the-badge"></a>
 </p>
 
+# 📓: Table of Contents
+- [About This Project](#star2-about-the-project)
+
 # Previews
 
 <details><summary>Style-1</summary>
