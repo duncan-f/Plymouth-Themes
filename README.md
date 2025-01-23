@@ -92,7 +92,7 @@ git clone https://github.com/MrVivekRajan/Plymouth-Themes.git
 ```bash  
 sudo plymouth-set-default-theme (theme-name) -R 
 ```
-- Dont forget to replace `(theme-name)` with your desired theme.
+- Dont forget to replace `(theme-name)` with your desired theme's name in above command ▲.
 
 # Also Available At:-
 - [Pling](https://www.pling.com/p/2216301/)
