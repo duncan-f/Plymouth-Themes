@@ -92,9 +92,15 @@ git clone https://github.com/MrVivekRajan/Plymouth-Themes.git
 ```bash  
 sudo plymouth-set-default-theme (theme-name) -R 
 ```
-- Dont forget to replace `(theme-name)` with your desired theme's name in above command ▲.
+- Dont forget to replace `(theme-name)` with your desired theme's name in above command ▲
 
-# Also Available At:-
+# Download
+- If you want to download all the themes at once then simply clone/download this [repository.](https://github.com/MrVivekRajan/Plymouth-Themes)
+
+- If you want to download individual or your desired theme then download it from Release-Section.
+
+- `(Also Available at)`  
+
 - [Pling](https://www.pling.com/p/2216301/)
 
 - [Gnome-Look](https://www.gnome-look.org/p/2216301)
