@@ -61,7 +61,7 @@ A warm welcome to all the people reading out this 🤗. Here at this repo you wi
 ![Image](https://github.com/user-attachments/assets/45e68655-e745-4f23-998f-a2f7f9fa862e)
 # WindowsGr (Getting Ready)
 ![Image](https://github.com/user-attachments/assets/e4f097d4-a2ac-46d9-858d-8b82d90f0ee8)
-# Bsol   
+# Bsol (Blue Screen Of Life)   
 ![plymouth ](https://github.com/user-attachments/assets/ea6b1579-eda4-435b-bb8f-47868fdfc21e)
 # Jam (Just A Moment)
 ![jam](https://github.com/user-attachments/assets/21d0d9a7-770b-44e6-83ca-0ae6a88477d0)
@@ -72,10 +72,9 @@ A warm welcome to all the people reading out this 🤗. Here at this repo you wi
   
   [Arch](https://wiki.archlinux.org/title/Plymouth)  [Debian](https://wiki.debian.org/plymouth)  [Ubuntu](https://wiki.ubuntu.com/Plymouth) [Linux-Mint](https://community.linuxmint.com/tutorial/view/646)  [Nix-OS](https://wiki.nixos.org/w/index.php?title=Plymouth&mobileaction=toggle_view_desktop)  [Gentoo](https://wiki.gentoo.org/wiki/Plymouth)  [EndeavourOS](https://forum.endeavouros.com/t/guide-how-to-install-and-use-plymouth/51363)  [Fedora](https://discussion.fedoraproject.org/t/enable-plymouth-startup/70079)  [MX-Linux](https://mxlinux.org/wiki/system/add-plymouth-to-mx-linux/)  [Manjaro](https://wiki.manjaro.org/index.php/Plymouth)  [oepnSUSE](https://en.opensuse.org/openSUSE:Plymouth)   
 
-- Once you installed plymouth on your distro simply follow the steps given below :-
+- Once you installed plymouth on your distro make sure that you have a themes folder inside /usr/share/plymouth/ if not then create one
+by command given below 
 ```bash
-# Make sure that you have a themes folder inside /usr/share/plymouth/ if not then create one
-by below command
 sudo mkdir /usr/share/plymouth/themes/
 
 # Clone this repository if you want all the themes else if you want any individual theme download it from release section 
