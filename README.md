@@ -99,9 +99,10 @@ sudo plymouth-set-default-theme (theme-name) -R
 
 - If you want to download individual or your desired theme then download it from Release-Section.
 
-- `Also Available at` [Pling](https://www.pling.com/p/2216301/) and [Gnome-Look](https://www.gnome-look.org/p/2216301)
+- `Also Available at` [Pling](https://www.pling.com/p/2216301/) and [Gnome-Look.](https://www.gnome-look.org/p/2216301)
 
-# Credits  
+# Credits
+- [MagiBoot-D3bootanimations](https://t.me/MagiBoot) - For Bootanimations and ideas
 - [K Harishnkr](https://github.com/harishnkr) - For Blue Screen of Life Idea
 - [Mauro Meloni](https://gitlab.com/maurom) - For circular loading animation
 
