@@ -12,27 +12,27 @@
     <a href="https://github.com/MrVivekRajan/Plymouth-Themes/forks"><img src="https://img.shields.io/github/forks/MrVivekRajan/Plymouth-Themes?colorA=1d2021&colorB=458588&style=for-the-badge"></a>
 </p>
 
-## 🌠: About This Project
+## 🌠 About This Project
 A warm welcome to all the people reading out this 🤗. Here at this repo you will find some cool, stylish and eye catchy boootanimations for [Plymouth.](https://www.freedesktop.org/wiki/Software/Plymouth/)
  
 # Previews
 
 <details><summary>Style-1</summary>
 
-# Eye
+# Anonymous  
+![Image](https://github.com/user-attachments/assets/274056c0-92f1-40b2-b850-eee5d78679bd)
+# Angry-Eye
 ![Image](https://github.com/user-attachments/assets/4cb532f3-ef57-456b-879e-9089a9d5e3a1)
 # Error
 ![Image](https://github.com/user-attachments/assets/8a521ae0-27ee-4913-ac7c-4666206560b9)
 # DC-Marvel 
 ![Image](https://github.com/user-attachments/assets/02ac0d10-5818-4d80-9a85-126161ed6a22)
-# Goku   
-![Image](https://github.com/MrVivekRajan/Plymouth-Themes/blob/main/Preview/goku.gif?raw=true)
 </details>
 
 <details><summary>Style-2</summary>
 
-# Anonymous  
-![Image](https://github.com/user-attachments/assets/274056c0-92f1-40b2-b850-eee5d78679bd)
+# Goku   
+![Image](https://github.com/MrVivekRajan/Plymouth-Themes/blob/main/Preview/goku.gif?raw=true)
 # Starlord
 ![Image](https://github.com/user-attachments/assets/4c56f308-cba5-4ee7-ae9c-5f0d0724547e)
 # Sasuke 
