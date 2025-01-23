@@ -57,15 +57,14 @@ A warm welcome to all the people reading out this 🤗. Here at this repo you wi
 
 <details><summary>Style-4</summary>
 
+# DeadLight
+![Image](https://github.com/user-attachments/assets/52b14037-825b-43da-a2ef-175d1c71c16f)
 # Windows
 ![Image](https://github.com/user-attachments/assets/7f34ff9f-f175-4247-af74-16a9e9ea2795)
 # WindowsGr (Getting Ready)
 ![Image](https://github.com/user-attachments/assets/e4f097d4-a2ac-46d9-858d-8b82d90f0ee8)
 # Bsol (Blue Screen Of Life)   
 ![plymouth ](https://github.com/user-attachments/assets/ea6b1579-eda4-435b-bb8f-47868fdfc21e)
-# Jam (Just A Moment)
-![jam](https://github.com/user-attachments/assets/21d0d9a7-770b-44e6-83ca-0ae6a88477d0)
-</details>
 
 # Installation
 - Install plymouth on your distro by following guide written on your distro's wiki page or search on the internet. Do follow each and every steps properly ▼
