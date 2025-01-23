@@ -18,14 +18,14 @@ A warm welcome to all the people reading out this 🤗. Here at this repo you wi
 # Previews
 
 <details><summary>Style-1</summary>
-
+    
 # Anonymous  
 ![Image](https://github.com/user-attachments/assets/274056c0-92f1-40b2-b850-eee5d78679bd)
 # Angry-Eye
 ![Image](https://github.com/user-attachments/assets/4cb532f3-ef57-456b-879e-9089a9d5e3a1)
 # Error
 ![Image](https://github.com/user-attachments/assets/8a521ae0-27ee-4913-ac7c-4666206560b9)
-# DC-Marvel 
+# Dc-Marvel 
 ![Image](https://github.com/user-attachments/assets/02ac0d10-5818-4d80-9a85-126161ed6a22)
 </details>
 
