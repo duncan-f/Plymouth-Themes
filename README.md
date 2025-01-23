@@ -68,7 +68,11 @@ A warm welcome to all the people reading out this 🤗. Here at this repo you wi
 </details>
 
 # Installation
+<<<<<<< HEAD
 - Install plymouth on your distro by following guide written on your distro's wiki page or search on the internet. Do follow each and every steps properly ▼
+=======
+- Install plymouth on your distro by following guide written on your distro's wiki page or search on the internet. Do follow each and every steps properly.
+>>>>>>> acc8689 (new theme)
   
   [Arch](https://wiki.archlinux.org/title/Plymouth)  [Debian](https://wiki.debian.org/plymouth)  [Ubuntu](https://wiki.ubuntu.com/Plymouth) [Linux-Mint](https://community.linuxmint.com/tutorial/view/646)  [Nix-OS](https://wiki.nixos.org/w/index.php?title=Plymouth&mobileaction=toggle_view_desktop)  [Gentoo](https://wiki.gentoo.org/wiki/Plymouth)  [EndeavourOS](https://forum.endeavouros.com/t/guide-how-to-install-and-use-plymouth/51363)  [Fedora](https://discussion.fedoraproject.org/t/enable-plymouth-startup/70079)  [MX-Linux](https://mxlinux.org/wiki/system/add-plymouth-to-mx-linux/)  [Manjaro](https://wiki.manjaro.org/index.php/Plymouth)  [oepnSUSE](https://en.opensuse.org/openSUSE:Plymouth)   
 
@@ -78,7 +82,11 @@ by ▼
 sudo mkdir /usr/share/plymouth/themes/
 ```
 
+<<<<<<< HEAD
 - Clone this repository if you want all the themes at once else if you want any individual theme then download it from release section
+=======
+- Clone this repository if you want all the themes else if you want any individual theme download it from release section
+>>>>>>> acc8689 (new theme)
 ```bash 
 git clone https://github.com/MrVivekRajan/Plymouth-Themes.git
 ```
@@ -97,7 +105,11 @@ sudo plymouth-set-default-theme (theme-name) -R
 # Download
 - If you want to download all the themes at once then simply clone/download this [repository.](https://github.com/MrVivekRajan/Plymouth-Themes)
 
+<<<<<<< HEAD
 - If you want to download individual or your desired theme then download it from [Release-Section.](https://github.com/MrVivekRajan/Plymouth-Themes/releases)
+=======
+- If you want to download individual or your desired theme then download it from Release-Section.
+>>>>>>> acc8689 (new theme)
 
 - `Also Available at` [Pling](https://www.pling.com/p/2216301/) and [Gnome-Look.](https://www.gnome-look.org/p/2216301)
 

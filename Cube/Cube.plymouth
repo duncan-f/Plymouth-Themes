@@ -1,0 +1,9 @@
+[Plymouth Theme]
+Name=Cube-Boot
+Description=Gradient Cube Bootanimation For Plymouth
+Comment=made by Vivek Rajan
+ModuleName=script
+
+[script]
+ImageDir=/usr/share/plymouth/themes/Cube
+ScriptFile=/usr/share/plymouth/themes/Cube/Cube.script
