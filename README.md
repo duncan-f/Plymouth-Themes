@@ -2,6 +2,13 @@
 
 ![Image](https://github.com/user-attachments/assets/2e555f32-cadf-41cb-bb47-791da9610236)
 
+<p align="center">
+    <a href="https://github.com/MrVivekRajan/Hypr-Dots/stargazers"><img src="https://img.shields.io/github/stars/MrVivekRajan/Plymouth-Themes?colorA=32302f&colorB=458588&style=for-the-badge"></a>
+     <a href="https://github.com/MrVivekRajan/Hypr-Dots/contributors"><img src="https://img.shields.io/github/contributors/MrVivekRajan/Plymouth-Themes?colorA=32302f&colorB=8651BB&style=for-the-badge"></a>
+     <a href="https://github.com/MrVivekRajan/Plymouth-Theme/blob/main/LICENSE">
+        <img src="https://img.shields.io/static/v1.svg?style=for-the-badge&label=License&message=GNU&colorA=32302f&colorB=b16286&logo=unlicense&logoColor=b16286&"/></a>   
+</p>
+
 # Previews
 
 <details><summary>Style-1</summary>
