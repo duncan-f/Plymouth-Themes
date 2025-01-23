@@ -58,7 +58,7 @@ A warm welcome to all the people reading out this 🤗. Here at this repo you wi
 <details><summary>Style-4</summary>
 
 # Windows
-![Image](https://github.com/user-attachments/assets/45e68655-e745-4f23-998f-a2f7f9fa862e)
+![Image](https://github.com/user-attachments/assets/7f34ff9f-f175-4247-af74-16a9e9ea2795)
 # WindowsGr (Getting Ready)
 ![Image](https://github.com/user-attachments/assets/e4f097d4-a2ac-46d9-858d-8b82d90f0ee8)
 # Bsol (Blue Screen Of Life)   
