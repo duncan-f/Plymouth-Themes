@@ -97,7 +97,7 @@ sudo plymouth-set-default-theme (theme-name) -R
 # Download
 - If you want to download all the themes at once then simply clone/download this [repository.](https://github.com/MrVivekRajan/Plymouth-Themes)
 
-- If you want to download individual or your desired theme then download it from Release-Section.
+- If you want to download individual or your desired theme then download it from [Release-Section.](https://github.com/MrVivekRajan/Plymouth-Themes/releases)
 
 - `Also Available at` [Pling](https://www.pling.com/p/2216301/) and [Gnome-Look.](https://www.gnome-look.org/p/2216301)
 
