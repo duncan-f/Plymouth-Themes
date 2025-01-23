@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-    <a href="https://github.com/MrVivekRajan/Plymouth-Themes/issues"><img src="https://img.shields.io/github/issues/MrVivekRajan/Plymouth-Themes?colorA=1d2021&colorB=eebd35&style=for-the-badge"></a>
+    <a href="https://github.com/MrVivekRajan/Plymouth-Themes/issues"><img src="https://img.shields.io/github/issues/MrVivekRajan/Plymouth-Themes?colorA=1d2021&colorB=fb4934&style=for-the-badge"></a>
     <a href="https://github.com/MrVivekRajan/Plymouth-Themes/forks"><img src="https://img.shields.io/github/forks/MrVivekRajan/Plymouth-Themes?colorA=1d2021&colorB=458588&style=for-the-badge"></a>
 </p>
 
