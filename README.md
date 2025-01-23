@@ -1,4 +1,4 @@
-<h1 align="center">Collection Of Some Plymouth Themes</h1>
+<h1 align="center">Collection Of Plymouth Themes</h1>
 
 ![Image](https://github.com/user-attachments/assets/2e555f32-cadf-41cb-bb47-791da9610236)
 
