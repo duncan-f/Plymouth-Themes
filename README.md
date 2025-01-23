@@ -13,7 +13,7 @@
 </p>
 
 ## 🌠: About This Project
-A warm welcome to all the people reading out this 🤗. Here at this repo you will find some cool, stylish, eye catchy boootanimations for [Plymouth.](https://www.freedesktop.org/wiki/Software/Plymouth/)
+A warm welcome to all the people reading out this 🤗. Here at this repo you will find some cool, stylish and eye catchy boootanimations for [Plymouth.](https://www.freedesktop.org/wiki/Software/Plymouth/)
  
 # Previews
 
