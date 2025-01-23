@@ -1,0 +1,9 @@
+[Plymouth Theme]
+Name=Windows-11-Getting Ready Boot
+Description=Windows 11 Getting Ready Bootanimation For Plymouth
+Comment=made by Vivek Rajan
+ModuleName=script
+
+[script]
+ImageDir=/usr/share/plymouth/themes/WindowsGr
+ScriptFile=/usr/share/plymouth/themes/WindowsGr/WindowsGr.script

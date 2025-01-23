@@ -1,0 +1,9 @@
+[Plymouth Theme]
+Name=Iphone-Boot
+Description=Iphone Bootanimation For Plymouth
+Comment=made by Vivek Rajan
+ModuleName=script
+
+[script]
+ImageDir=/usr/share/plymouth/themes/Hyper
+ScriptFile=/usr/share/plymouth/themes/Hyper/Hyper.script

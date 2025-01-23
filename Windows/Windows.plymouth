@@ -1,0 +1,9 @@
+[Plymouth Theme]
+Name=Windows-11-Boot
+Description=Windows 11 Bootanimation For Plymouth
+Comment=made by Vivek Rajan
+ModuleName=script
+
+[script]
+ImageDir=/usr/share/plymouth/themes/Windows
+ScriptFile=/usr/share/plymouth/themes/Windows/Windows.script

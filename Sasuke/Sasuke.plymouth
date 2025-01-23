@@ -1,0 +1,9 @@
+[Plymouth Theme]
+Name=Sasuke-Boot
+Description=Sasuke Bootanimation For Plymouth
+Comment=made by Vivek Rajan
+ModuleName=script
+
+[script]
+ImageDir=/usr/share/plymouth/themes/Sasuke
+ScriptFile=/usr/share/plymouth/themes/Sasuke/Sasuke.script
